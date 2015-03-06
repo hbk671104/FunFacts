@@ -65,12 +65,13 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="funFactButton" destination="VFx-2J-jAD" id="U5B-JX-4hz"/>
                         <outlet property="funFactLabel" destination="G9S-hL-60y" id="2KH-rh-roR"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="142" y="472"/>
+            <point key="canvasLocation" x="331" y="474"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4043BE4F1AAA37A000F8EE3B /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4043BE4E1AAA37A000F8EE3B /* FactBook.swift */; };
+		4043BE511AAA5DD700F8EE3B /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4043BE501AAA5DD700F8EE3B /* ColorWheel.swift */; };
 		405AF5C91A9AA229007091C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405AF5C81A9AA229007091C5 /* AppDelegate.swift */; };
 		405AF5CB1A9AA229007091C5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405AF5CA1A9AA229007091C5 /* ViewController.swift */; };
 		405AF5CE1A9AA229007091C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 405AF5CC1A9AA229007091C5 /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		4043BE4E1AAA37A000F8EE3B /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
+		4043BE501AAA5DD700F8EE3B /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 		404920151A9AA9B3002AAA55 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Scratchpad.playground; path = FunFacts/Scratchpad.playground; sourceTree = "<group>"; };
 		405AF5C31A9AA229007091C5 /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		405AF5C71A9AA229007091C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				405AF5C81A9AA229007091C5 /* AppDelegate.swift */,
+				4043BE501AAA5DD700F8EE3B /* ColorWheel.swift */,
 				4043BE4E1AAA37A000F8EE3B /* FactBook.swift */,
 				405AF5CA1A9AA229007091C5 /* ViewController.swift */,
 				405AF5CC1A9AA229007091C5 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 				4043BE4F1AAA37A000F8EE3B /* FactBook.swift in Sources */,
 				405AF5CB1A9AA229007091C5 /* ViewController.swift in Sources */,
 				405AF5C91A9AA229007091C5 /* AppDelegate.swift in Sources */,
+				4043BE511AAA5DD700F8EE3B /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
